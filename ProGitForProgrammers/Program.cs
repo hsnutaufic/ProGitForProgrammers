@@ -9,6 +9,7 @@ namespace ProGitForProgrammers
             Console.WriteLine("Hello World!");
             Console.WriteLine("I just added this in Visual Studio");
 			Console.WriteLine("Main change");
+			Console.WriteLine("Continue coding");
         }
     }
 }
