@@ -11,6 +11,7 @@ namespace ProGitForProgrammers
 			Console.WriteLine("Main change");
 			Console.WriteLine("Continue coding");
 			Console.WriteLine("Continue coding 100 years");
+			Console.WriteLine("Continue coding 1000 years");
         }
     }
 }
